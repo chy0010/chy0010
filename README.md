@@ -57,6 +57,7 @@
 | :------ | :--------- |
 | **[agent-stack-learning](https://github.com/chy0010/agent-stack-learning)** | A hands-on progression from a first chatbot to a fully orchestrated, RAG-powered AI agent — tool calling, MCP, embeddings, pgvector. |
 | **[memory-infra](https://github.com/chy0010/memory-infra)** | Memory infrastructure for AI agents — working, episodic & semantic memory with hybrid (vector + keyword + graph) retrieval and a real eval harness. |
+| **[research-agent](https://github.com/chy0010/research-agent)** | Multi-agent research app — FastAPI + Claude + Tavily web search with a Next.js/TypeScript frontend. Breaks a topic into sub-questions, researches each, and streams answers. |
 | **[MarketPulse](https://github.com/chy0010/Pulse-V5)** | Daily consumer-intelligence pipeline: 2,500+ YouTube comments across 71 channels into Claude, producing stock signals and sentiment-vs-price divergences. |
 | **[Ask Data](https://github.com/chy0010/Ask_Data)** | RAG from scratch — query your documents in plain English using LangChain, ChromaDB and SentenceTransformers. |
 
