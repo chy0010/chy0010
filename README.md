@@ -1,24 +1,19 @@
-<h1 align="center">Hi, I'm Chaitanya 👋</h1>
-<h3 align="center">Data Engineer learning AI infrastructure — in public 🛠️</h3>
-
-<p align="center">
-  <a href="https://x.com/Chaikrishnan"><img src="https://img.shields.io/badge/Follow-%40Chaikrishnan-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <img src="https://komarev.com/ghpvc/?username=chy0010&style=for-the-badge&color=412991&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+<h1 align="center">Hi, I'm Krishna</h1>
+<h3 align="center">Data Engineer learning AI infrastructure — in public</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 I'm building **AI agents, agent memory systems & RAG** — from scratch, in Python
-- 🧠 Going deep on **memory & retrieval infrastructure** — one of the most important, least-solved problems in AI engineering
-- 📊 Data engineer by trade — I live at the intersection of **data pipelines + ML + LLMs**
-- 🌱 Learning in public: I ship the dumbest possible version first, then build it up
-- 💬 Ask me about **agents, RAG, vector databases, and data pipelines**
+- Building **AI agents, agent memory systems & RAG** — from scratch, in Python
+- Going deep on **memory & retrieval infrastructure** — one of the most important, least-solved problems in AI engineering
+- Data engineer by trade — I work at the intersection of **data pipelines, ML, and LLMs**
+- Learning in public: I ship the simplest version first, then build it up
+- Ask me about **agents, RAG, vector databases, and data pipelines**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -56,38 +51,24 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | What it is |
 | :------ | :--------- |
-| 🤖 **[agent-stack-learning](https://github.com/chy0010/agent-stack-learning)** | A hands-on progression from a first chatbot to a fully orchestrated, RAG-powered AI agent — tool calling, MCP, embeddings, pgvector. |
-| 🧠 **[memory-infra](https://github.com/chy0010/memory-infra)** | Memory infrastructure for AI agents — working, episodic & semantic memory with hybrid (vector + keyword + graph) retrieval and a real eval harness. |
-| 📈 **[MarketPulse](https://github.com/chy0010/Pulse-V5)** | Daily consumer-intelligence pipeline: 2,500+ YouTube comments across 71 channels → Claude → stock signals & sentiment-vs-price divergences. |
-| 📂 **[Ask Data](https://github.com/chy0010/Ask_Data)** | RAG from scratch — query your documents in plain English using LangChain, ChromaDB & SentenceTransformers. |
+| **[agent-stack-learning](https://github.com/chy0010/agent-stack-learning)** | A hands-on progression from a first chatbot to a fully orchestrated, RAG-powered AI agent — tool calling, MCP, embeddings, pgvector. |
+| **[memory-infra](https://github.com/chy0010/memory-infra)** | Memory infrastructure for AI agents — working, episodic & semantic memory with hybrid (vector + keyword + graph) retrieval and a real eval harness. |
+| **[MarketPulse](https://github.com/chy0010/Pulse-V5)** | Daily consumer-intelligence pipeline: 2,500+ YouTube comments across 71 channels into Claude, producing stock signals and sentiment-vs-price divergences. |
+| **[Ask Data](https://github.com/chy0010/Ask_Data)** | RAG from scratch — query your documents in plain English using LangChain, ChromaDB and SentenceTransformers. |
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chy0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chy0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chy0010&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chy0010&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
 ---
 
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://x.com/Chaikrishnan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
-<p align="center"><i>Building in public — starting from the dumbest possible version and leveling up. 🚀</i></p>
+<p align="center"><i>Building in public — starting simple and leveling up.</i></p>
