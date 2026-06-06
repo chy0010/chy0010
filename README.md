@@ -66,7 +66,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chy0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chy0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chy0010&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top languages"/>
 </p>
 
 ---
