@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://x.com/Chaikrishnan"><img src="https://img.shields.io/badge/Follow-%40Chaikrishnan-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <img src="https://komarev.com/ghpvc/?username=chy0010&style=for-the-badge&color=412991" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=chy0010&style=for-the-badge&color=412991&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -70,12 +70,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chy0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chy0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chy0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chy0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chy0010&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=chy0010&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chy0010&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
 </p>
 
 ---
