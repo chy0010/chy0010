@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Krishna</h1>
-<h3 align="center">Data/AI Engineer</h3>
+<h3 align="center"> I'm a Data / AI Engineer</h3>
 
 ---
 
