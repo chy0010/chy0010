@@ -26,6 +26,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-3B1F8C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge)
 
@@ -56,6 +57,7 @@
 | Project | What it is |
 | :------ | :--------- |
 | **[agent-stack-learning](https://github.com/chy0010/agent-stack-learning)** | A hands-on progression from a first chatbot to a fully orchestrated, RAG-powered AI agent — tool calling, MCP, embeddings, pgvector. |
+| **[langgraph-from-scratch](https://github.com/chy0010/langgraph-from-scratch)** | LangGraph from the ground up — 13 progressively complex agent graphs covering state machines, conditional routing, ReAct loops, document agents, and RAG. |
 | **[memory-infra](https://github.com/chy0010/memory-infra)** | Memory infrastructure for AI agents — working, episodic & semantic memory with hybrid (vector + keyword + graph) retrieval and a real eval harness. |
 | **[research-agent](https://github.com/chy0010/research-agent)** | Multi-agent research app — FastAPI + Claude + Tavily web search with a Next.js/TypeScript frontend. Breaks a topic into sub-questions, researches each, and streams answers. |
 | **[MarketPulse](https://github.com/chy0010/marketpulse)** | Daily consumer-intelligence pipeline: 2,500+ YouTube comments across 71 channels into Claude, producing stock signals and sentiment-vs-price divergences. |
