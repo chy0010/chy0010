@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center"><i>Building in public — starting simple and leveling up.</i></p>
+<p align="center"><i>Building in public </i></p>
