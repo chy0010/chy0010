@@ -8,7 +8,6 @@
 - Building **AI agents, agent memory systems & RAG** from scratch, in Python
 - Going deep on **memory & retrieval infrastructure** one of the most important, least-solved problems in AI engineering
 - Data engineer by trade, I work at the intersection of **data pipelines, ML, and LLMs**
-- Learning in public: I ship the simplest version first, then build it up
 - Ask me about **agents, RAG, vector databases, and data pipelines**
 
 ---
